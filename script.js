@@ -32,7 +32,7 @@ const q1 = {
     numQuestao   : 1,
     pergunta     : "Qual é o símbolo químico do oxigênio?",
     alternativaA : "O",
-    alternativaB : "O2",
+    alternativaB : "Oxi",
     alternativaC : "Ox",
     correta      : "O",
 }
